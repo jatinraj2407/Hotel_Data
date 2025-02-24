@@ -15,7 +15,7 @@ This system uses **well-structured tables, relationships, and SQL queries** to e
 
 ## 📂 Database Schema
 The database consists of **five tables**:
-1. **Guests** – Stores guest details (15 Indian names added)  
+1. **Guests** – Stores guest details   
 2. **Rooms** – Stores room information  
 3. **Bookings** – Stores booking records  
 4. **Payments** – Stores guest payments  
